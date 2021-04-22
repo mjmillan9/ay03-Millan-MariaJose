@@ -1,3 +1,78 @@
 #cabecera{
     background: lightblue;
+    color: cadetblue;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 9px;
+}
+
+body h1{
+    font-size: 100px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:cadetblue;
+    text-shadow: 0px 4px 4px grey;   
+    text-align: center;
+}
+
+#descripcion0{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 20px ;
+}
+#descripcion1{
+    border-radius: 10px;
+    background: rgb(211, 231, 238);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+    margin: 15px;
+    text-align: center;
+}
+
+#foto1{
+    border-radius: 20px;
+    display: inline-block;
+    margin: 12px;
+}
+
+#foto2{
+    border-radius: 20px;
+    display: inline-block;
+    margin: 12px;
+}
+
+
+#foto3{
+    border-radius: 30px;
+    display: inline-block;
+    margin: 12px;
+}
+
+#descripcion2{
+    border-radius: 10px;
+    background: lightgray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    display: inline-block;
+    margin: 10px 15px 100px 140px ;
+    padding: 0 100px 0;
+}
+#descripcion3{
+    border-radius: 10px;
+    background: lightgray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    display: inline-block;
+    margin: 10px 15px 300px 100px ;
+    padding: 0 150px 0;
+}
+
+#descripcion4{
+    border-radius: 10px;
+    background: lightgray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    display: inline-block;
+    margin: 10px 15px 100px 110px ;
+    padding: 0 150px 0;
 }
