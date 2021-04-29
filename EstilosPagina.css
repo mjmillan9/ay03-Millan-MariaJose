@@ -54,7 +54,7 @@ body h1{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
     display: inline-block;
-    margin: 10px 15px 100px 140px ;
+    margin: 10px 15px 20px 140px ;
     padding: 0 100px 0;
 }
 #descripcion3{
@@ -63,7 +63,7 @@ body h1{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
     display: inline-block;
-    margin: 10px 15px 300px 100px ;
+    margin: 10px 15px 20px 100px ;
     padding: 0 150px 0;
 }
 
@@ -73,6 +73,6 @@ body h1{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
     display: inline-block;
-    margin: 10px 15px 100px 110px ;
+    margin: 10px 15px 20px 110px ;
     padding: 0 150px 0;
 }

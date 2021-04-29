@@ -4,9 +4,12 @@
         <meta charset="utf-8"/>
         <title>Blog de Van Gogh </title>
         <link href="EstilosPagina.css" rel="stylesheet">
+        <script type="text/javascript" src="jquery-3.6.0.js"></script>
+        <script type="text/javascript" src="Aplicacion.js"></script>
     </head>
     <body>
-        <h1> Blog de Van Gogh </h1> 
+        <h1 id= "titulo"> Blog de Van Gogh </h1> 
+        <button id= "boton2"> Haz click acá para cambiar el título de la página</button>
         <div id = "descripcion0"><p>Este blog tiene como objetivo llegar a conocer más de la vida de un gran artista, Vincent Van Gogh. A continuación se adjunatron 3 links para vistir y obtener una mirada global de su vida. </p></div>
         <header id="cabecera" >
             <nav>
@@ -17,16 +20,17 @@
                 </ul>
             </nav>
 
-        </header>       
+        </header>  
+        
        <div id = "descripcion1"><p>Ahora mostraré tres de mis obras favoritas </p></div>
        
-       <img id= "foto2" src="foto2.jpg" height=400/>
-       <img id= "foto1" src="foto1.jpg" height=400/>
-       <img id = "foto3" src="foto3.jpg" height=400>
-
+       <img id= "foto2" class="fotos" src="foto2.jpg" height=400/>
+       <img id= "foto1" class="fotos"  src="foto1.jpg" height=400/>
+       <img id = "foto3" class="fotos" src="foto3.jpg" height=400>
+       
        <div id = "descripcion3"><p>Orquídeas </p></div>
        <div id = "descripcion2" ><p> Girasoles </p></div>
        <div id= "descripcion4" ><p>Irises </p></div>
-
+       <button id= "boton1"> Haz click acá para que desaparezcan las fotos</button>
     </body>
 </html>
